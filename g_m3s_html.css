@@ -1,0 +1,32 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#000000; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_3261fcc3 { vertical-align: top; position:relative; display: inline-block; width:102%; min-height:711px; background:none;  }
+#container_3261fcc3_padding { margin: 10px; display: block;  }
+#container_7fa21dec { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
+#container_7fa21dec_padding { margin: 10px; display: block;  }
+#img_64eb161c { vertical-align: bottom; position:relative; display: inline-block; width:104%; background:none;  }
+#container_7330b34f { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
+#container_7330b34f_padding { margin: 10px; display: block;  }
+#container_548ef2b6 { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
+#container_548ef2b6_padding { margin: 10px; display: block;  }
+#container_3e1b6995 { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
+#container_3e1b6995_padding { margin: 10px; display: block;  }
+#container_65637dac { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
+#container_65637dac_padding { margin: 10px; display: block;  }
+#container_4d42a83f { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
+#container_4d42a83f_padding { margin: 10px; display: block;  }
+#text_38b56572 { position:absolute; left:6%; top:29%; background:none;  }
+.textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#0031D9;  }
+@media only screen and (max-width: 900px)
+{
+		#container_7fa21dec { width:100%;  }
+		#container_7330b34f { width:100%;  }
+		#container_548ef2b6 { width:100%;  }
+		#container_3e1b6995 { width:100%;  }
+		#container_65637dac { width:100%;  }
+		#container_4d42a83f { width:100%;  }
+}
