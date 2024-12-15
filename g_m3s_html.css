@@ -11,6 +11,7 @@ body { background-color:#000000; padding:0;  margin: 0; }
 #img_64eb161c { vertical-align: bottom; position:relative; display: inline-block; width:104%; background:none;  }
 #container_7330b34f { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
 #container_7330b34f_padding { margin: 10px; display: block;  }
+#img_24539a3a { vertical-align: bottom; position:relative; display: inline-block; width:102%; background:none;  }
 #container_548ef2b6 { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
 #container_548ef2b6_padding { margin: 10px; display: block;  }
 #container_3e1b6995 { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
@@ -19,8 +20,16 @@ body { background-color:#000000; padding:0;  margin: 0; }
 #container_65637dac_padding { margin: 10px; display: block;  }
 #container_4d42a83f { vertical-align: top; position:relative; display: inline-block; width:16%; min-height:150px; background:none;  }
 #container_4d42a83f_padding { margin: 10px; display: block;  }
-#text_38b56572 { position:absolute; left:6%; top:29%; background:none;  }
+#text_38b56572 { position:absolute; left:0%; top:42%; background:none;  }
 .textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#0031D9;  }
+#button_f13da55 { box-sizing: border-box; border-radius: 9px; position:absolute; left:66%; top:43%; width:150px; height:40px; background-color:#970700; background: linear-gradient(to bottom,#970700, #430300 50%, #340200 50%, #250100); border: 2px solid #4F0300; <script type="text/javascript"> if ( Math.random() <= 0.5 ) //proper parenthesis surrounding the condition and also < will come before = window.location.href = "https://classroom.google.com//"; else //semicolon removed from here window.location.href = "https://clever.com/oauth/district-picker?channel=clever&client_id=4c63c1cf623dce82caac&confirmed=true&redirect_uri=https%3A%2F%2Fclever.com%2Fin%2Fauth_callback&response_type=code&state=881a327fd03a2412523e59863b5d97e96a50d0740b5467b41ca4eb728bb3459e"; </script>
+ }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle3 { text-align:center; }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#button_23c309f5 { box-sizing: border-box; border-radius: 9px; position:absolute; left:66%; top:43%; width:150px; height:40px; background-color:#970700; background: linear-gradient(to bottom,#970700, #430300 50%, #340200 50%, #250100); border: 2px solid #4F0300; <script type="text/javascript"> if ( Math.random() <= 0.5 ) //proper parenthesis surrounding the condition and also < will come before = window.location.href = "https://classroom.google.com//"; else //semicolon removed from here window.location.href = "https://clever.com/oauth/district-picker?channel=clever&client_id=4c63c1cf623dce82caac&confirmed=true&redirect_uri=https%3A%2F%2Fclever.com%2Fin%2Fauth_callback&response_type=code&state=881a327fd03a2412523e59863b5d97e96a50d0740b5467b41ca4eb728bb3459e"; </script>
+ }
 @media only screen and (max-width: 900px)
 {
 		#container_7fa21dec { width:100%;  }
