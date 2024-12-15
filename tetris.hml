@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>TETRIS 4 U</title>
+	<link rel="stylesheet" type="text/css" href="tetris.hml.css">
+</head>
+<body>
+<div class="textstyle1">
+<iframe name="IFrame2" frameBorder="0" src="https://pachimonedu.github.io/tetris4u/" scrolling="auto" id="iframe_540f65a5"></iframe>  </div>
+<div class="textstyle2">
+<div id="text_1bf3c30c"><div class="textstyle2">  <span class="textstyle3">you can play here or go to </span>
+  <span class="textstyle3"><a href="https://pachimonedu.github.io/tetris4u/" target="_blank">fullscreen</a></span>
+  <span class="textstyle3"> if preferred (click fullscreen to enter, it will open in new tab)</span>
+</div>
+</div><a href="https://classroom.google.com/" style="text-decoration:none"><div id="button_433edc8a"><div class="vcenterstyle1"><div class="vcenterstyle2"><div class="textstyle1">  <span class="textstyle4">PANIC</span>
+</div>
+<div class="textstyle2"></div>
+</div></div></div></a>  </div>
+</body>
+</html>
